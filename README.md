@@ -12,7 +12,9 @@
   <img src="./resources/demo.png"/>
 
 </div>
+
 Link Bot: https://t.me/hAmster_kombat_bot/start?startapp=kentId955547587
+
 ## Features
 - Auto-click
 - Auto-activate "Full Energy" booster
