@@ -20,12 +20,6 @@
 
 ## Enable Debug Mode for Mini Apps
 
-### Android
-- **[Enable USB-Debugging](https://developer.chrome.com/docs/devtools/remote-debugging/)** on your device.
-- In Telegram Settings, scroll all the way down, press and hold on the version number two times.
-- Choose Enable WebView Debug in the Debug Settings.
-- Connect your phone to your computer and open chrome://inspect/#devices in Chrome – you will see your Mini App there when you launch it on your phone.
-
 ### Telegram Desktop on Windows and Linux
 - Download and launch the **[Beta Version](https://desktop.telegram.org/changelog#beta-version)** of Telegram Desktop on Windows or Linux (not supported on Telegram Desktop for macOS yet).
 - Go to Settings > Advanced > Experimental settings > Enable webview inspection.
