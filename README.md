@@ -12,7 +12,7 @@
   <img src="./resources/demo.png"/>
 
 </div>
-
+Link Bot: https://t.me/hAmster_kombat_bot/start?startapp=kentId955547587
 ## Features
 - Auto-click
 - Auto-activate "Full Energy" booster
@@ -238,6 +238,4 @@ function toggleAutoBuy() {
 ### That's it! Now you can use this script for automatic clicking in the Hamster Kombat game on Telegram.
 
 ## Author
-
-Telegram: [@clqkx](https://t.me/clqkx)
-Telegram Channel: [@clqkxdev](https://t.me/clqkxdev)
+Telegram Channel: https://t.me/eligible_airdrop_farmer
